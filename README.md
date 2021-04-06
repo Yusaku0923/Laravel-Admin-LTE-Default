@@ -3,6 +3,6 @@
 
 ## 構築手順
 1. 作業ディレクトリにて `git clone https://github.com/Yusaku0923/Laravel-Admin-LTE-Default.git`
-2. .envの作成　`cp .env.ezample .env`
+2. .envの作成 `cp .env.ezample .env`
 3. .envを各自の環境に合わせて編集
 4. APP_KEYの作成 `php artisan key:generate`
